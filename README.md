@@ -1,0 +1,3 @@
+# cookbook
+
+Collection of recipes.
